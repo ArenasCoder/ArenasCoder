@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ArenasCoder
-- 👀 I’m interested in playing guitar and photography
+- 👀 I’m interested in improving my coding skills.
 - 🌱 I’m currently learning python
 
 <!---
